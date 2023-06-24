@@ -1,0 +1,8 @@
+.cube{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    height: 500px;
+}
